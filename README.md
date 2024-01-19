@@ -9,14 +9,13 @@ Climate analysis and data exploration was done on the `hawaii.sqlite` database. 
 * ORM queries were done to get the date and prcp data for the previous 12 months.
 
 * Pandas DataFrame was created using the queried data.
-  |           | precipitation |
-  | ----------|:-------------:|
+  |             | precipitation |
+  | ------------|:-------------:|
   |2016-08-23	| 0.00          |
-  |2016-08-23	| NaN           |
   |2016-08-23	| 1.79          |
   |2016-08-23	| 0.05          |
   |2016-08-23	| 0.15          |
-  |...	      | ...           |
+  |...	        | ...           |
 
 * The results were plotted by using the Pandas plot method.
 
