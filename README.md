@@ -20,7 +20,7 @@ Climate analysis and data exploration was done on the `hawaii.sqlite` database. 
 
 * The results were plotted by using the Pandas plot method.
 
-	![image](C:\Users\r_mat\OneDrive\Desktop\Classwork\Module_Challenge\Module10_Challenge/221071429-98f38337-cdee-4bfc-908a-b159c9794587.png)
+	![image](https://github.com/raymonmatiling/SQLAlchemy-Challenge/blob/main/images/221071429-98f38337-cdee-4bfc-908a-b159c9794587.png)
 
 * A summary statistics table was printed for the precipitation data for the previous 12 months.
 
@@ -61,7 +61,7 @@ Climate analysis and data exploration was done on the `hawaii.sqlite` database. 
   |...   | ...  |
 
 * The results were binned and plotted in histogram using Pandas plot histogram method. 
-	![image](https://user-images.githubusercontent.com/120543690/221074591-79dc85f6-102a-40aa-8bd2-75f80ab42ce6.png)
+	![image](https://github.com/raymonmatiling/SQLAlchemy-Challenge/blob/main/images/221074591-79dc85f6-102a-40aa-8bd2-75f80ab42ce6.png)
 
 ## Design Climate API
 A Climate API was created using Flask. The following 5 routes are available routes created using Flask:
